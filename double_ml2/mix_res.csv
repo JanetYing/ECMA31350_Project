@@ -1,0 +1,13 @@
+gvc_type,outcome,treatment,tau_hat,std_hat,p_val,fixed_effects,stationary_controls
+mix,onset2COWCS,oilreserves,-0.0193,0.0981,0.844,True,True
+mix,onset2COWCS,oilreserves,-0.0193,0.0981,0.844,True,False
+mix,onset2COWCS,oilreserves,-0.0479,0.2312,0.8359,False,True
+mix,onset2COWCS,oilreserves,-0.0479,0.2312,0.8359,False,False
+mix,onset2COWCS,oilreserves_full,-0.0002,0.0005,0.772,True,True
+mix,onset2COWCS,oilreserves_full,-0.0002,0.0005,0.772,True,False
+mix,onset2COWCS,oilreserves_full,-0.0,0.0,0.7548,False,True
+mix,onset2COWCS,oilreserves_full,-0.0,0.0,0.7548,False,False
+mix,onset2COWCS,oilreserves_public,0.0003,0.0039,0.934,True,True
+mix,onset2COWCS,oilreserves_public,0.0003,0.0039,0.934,True,False
+mix,onset2COWCS,oilreserves_public,-0.009,0.1568,0.9542,False,True
+mix,onset2COWCS,oilreserves_public,-0.009,0.1568,0.9542,False,False
