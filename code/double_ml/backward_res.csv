@@ -1,3 +1,5 @@
-gvc_type,outcome,treatment,tau_hat,std_hat,p_val,fixed_effects,stationary_controls
-backward,milexp_pergdpSIPRI,treat_fuel,0.0,-131.1148,0.0,True,True
-backward,milexp_pergdpSIPRI,treat_fuel,0.0,-130.3039,0.0,False,True
+gvc_type,coef,std err,t,P>|t|,2.5 %,97.5 %,fixed_effects,stationary_controls
+backward,-376.2269,424.9421,-0.8854,0.376,-1209.0981,456.6442,True,True
+backward,-394.2124,433.5249,-0.9093,0.3632,-1243.9055,455.4808,True,False
+backward,-215.1774,296.9244,-0.7247,0.4686,-797.1385,366.7837,False,True
+backward,-242.9255,321.8868,-0.7547,0.4504,-873.8122,387.9611,False,False
